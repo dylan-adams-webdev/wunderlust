@@ -434,7 +434,7 @@ h4 {
 }
 
 #contact fieldset input {
-    grid-column-start: 1 / 1;
+    grid-column-start: 1;
     margin: 0;
     accent-color: var(--purple);
 }
